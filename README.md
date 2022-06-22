@@ -4,7 +4,9 @@ Repository to host the project developed for 'Turma A', a fisrt year subject at 
 
 ## Short theme description
 
-An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
+O nosso trabalho tem como tema 'Turismo' e optamos por escolher o país da Grécia para desenvolver este tema.
+No nosso trabalho apresentamos os lugares turisticos do país em estudo e sua gastronomia.
+
 
 ## Repository organization
 
@@ -24,18 +26,12 @@ _Indicate the technologies you have used in this assignment. Please provide link
 * HTML5 + CSS3
 * Javascript
 * PHP
-* nodeJS
-* _Any other?_
+* 
 
 ### Frameworks and Libraries
 
 _Did you use any aditional libraries? Describe them here._
 * Docker
-* Multipass
-* NodeJS
-* JQuery
-* Laravel
-* Bootstrap
 
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._

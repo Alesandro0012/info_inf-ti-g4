@@ -5,7 +5,7 @@ Repository to host the project developed for 'Turma A', a fisrt year subject at 
 ## Short theme description
 
 O nosso trabalho tem como tema 'Turismo' e optamos por escolher o país da Grécia para desenvolver este tema.
-No nosso trabalho apresentamos os lugares turisticos do país em estudo e sua gastronomia.
+No nosso trabalho apresentamos os lugares turisticos do país em estudo e suas gastronomia.
 
 
 ## Repository organization

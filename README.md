@@ -47,4 +47,5 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 
 ## Team
 * Alesandro Alberto Monteiro Lopes [@AlesandroLopes](https://github.com/alesandro0012)
-* Zidane de Furtado
+* Zidane de Jesus de Brito Furtado [@zidanefurtado1](https://github.com/zidanefurtado1)
+* Denilson Silvestre Moreira Monteiro [@kdenilson](https://github.com/kdenilsonmoreira)

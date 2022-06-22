@@ -46,5 +46,5 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 * Chapter 4: [Presentation](doc/c4.md)
 
 ## Team
-* Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
-* Other team members
+* Alesandro Alberto Monteiro Lopes [@AlesandroLopes](https://github.com/alesandro0012)
+* Zidane de Furtado

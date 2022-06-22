@@ -31,7 +31,7 @@ _Indicate the technologies you have used in this assignment. Please provide link
 ### Frameworks and Libraries
 
 _Did you use any aditional libraries? Describe them here._
-* Docker
+
 
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._

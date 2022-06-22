@@ -1,6 +1,6 @@
 # My example work assignment Title
 
-Repository to host the project developed for 'Turma A', a fisrt year subject at ISMAI. Developed by Group ALPHA : [@Alesandro](https://github.com/alesandro0012), [@zidandefurtado1].
+Repository to host the project developed for 'Turma A', a fisrt year subject at ISMAI. Developed by Group ALPHA : [@Alesandro](https://github.com/alesandro0012), [@zidandefurtado1](https://github.com/zidanefurtado1),[@kdenilsonmoreira](https://github.com/kdenilsonmoreira).
 
 ## Short theme description
 

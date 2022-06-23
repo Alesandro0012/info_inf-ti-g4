@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Pais>
+    <DescrisaoDoPais>
+        É um país localizado no sul da Europa.De acordo com os dados de 2011,
+        a população grega é de cerca de 11 milhões de pessoas.Atenas é a capital e a maior cidade do país. 
+    </DescrisaoDoPais>
+    <Cidades>
+        <nome>Athenas</nome>
+        <nome>Mykonos</nome>
+    </Cidades>
+    <PontosTuristicos>
+        <nome>Acrópole de Atenas</nome>
+        <nome>Kefalone</nome>
+        <nome>Partenon</nome>
+        <nome>Delfos</nome>
+        <nome>Navagio Beach</nome>
+        <nome>Templo de Hefesto</nome>
+    </PontosTuristicos>
+    <Gastronomia>
+        <Pratos>
+            <nome>Musaka de Berinjela</nome>
+            <nome>Gemista</nome>
+            <nome>Solomos sta Karvouna</nome>
+            <nome>Giroscópios</nome>
+            <nome>Pilafs</nome>
+        </Pratos>
+        <Sobremesa>
+            <nome>Bougatsa</nome>
+            <nome>Baklavas</nome>
+            <nome>Tsoureki</nome>
+            <nome>Vasilopita</nome>
+            <nome>Loukoumades</nome>
+        </Sobremesa>
+    </Gastronomia>
+      
+</Pais>

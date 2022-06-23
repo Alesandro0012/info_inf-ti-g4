@@ -1,0 +1,301 @@
+*
+
+{
+    margin: 0 ;
+    padding: 0;
+}
+
+body
+{
+    display: block; 
+}
+
+.fundo
+{
+    background: url(paisagem_noite.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.barranav{height: 80px ;
+    width: 100%;
+    background: rgba(192, 133, 181, 0.4);
+
+}
+.barranav ul
+{
+    float: right;
+    margin: 20px;
+
+}
+.barranav ul li
+{
+    list-style: none;
+    display: inline-block ;
+    margin: 0 8px;
+}
+.barranav ul li [Menu]
+{
+    list-style: none;
+    margin: 0 8px;
+    float: left;
+}
+
+
+.barranav ul li a
+{
+        text-decoration: none;
+        color: white;
+        transition: 0.5s ;
+        font-family:'';
+}
+
+.barranav ul li a.active, .barranav ul li a:hover
+{
+    background: rgb(228, 34, 228) ;
+    border-radius: 2px;
+}
+
+.centro 
+{
+    text-align: center;
+
+}
+.centro h1 
+{
+    color: black;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.guerreiro
+{
+
+    width: 80px; 
+    height: auto;
+    padding: 80px 40px ;
+
+}
+
+.formulario 
+{
+
+   position: absolute ; top: 50%;left: 50%;
+   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 20);
+   width: 200px;
+   height: 200px;
+   padding-top: 70px;
+   padding-left: 20px;
+
+}
+
+
+.formulario input 
+{
+    width: 170px;
+    height: 20px;
+    margin:  4px;
+    
+}
+
+.formulario label 
+{
+    color: white;
+}
+
+ .boton_Menu  ul   
+{
+    display: none;
+
+}
+
+.boton_Menu:focus > ul
+{
+    display:block;
+
+}
+
+.boton_Menu ul li
+{
+    display:block;
+    color: black;
+}
+
+.fasola img 
+{
+    width: 550px;
+    height: 400px;
+     
+}
+
+.fasola h1 
+{
+    text-align: center;
+}
+
+.fasola
+{
+    margin: 50px;
+}
+
+.musaka img
+{
+    width: 550PX;
+    height: 400PX;
+
+}
+
+.musaka 
+{
+    margin: 50PX;
+}
+
+.queijo img
+{
+    width: 550px;
+    height: 400px;
+}
+
+.queijo
+{
+    margin: 50px;
+}
+
+.dolmades img
+{
+    width: 450px;
+    height: 400px;
+}
+
+.dolmades
+{
+    margin: 50px;
+
+}
+
+.salada img
+{
+    width: 450px;
+    height: 400;
+}
+
+.salada
+{
+    margin: 50px;
+}
+
+.gemista img
+{
+    width: 550px;
+    height: 400;
+}
+
+.gemista 
+{
+    margin: 50px;
+}
+
+.athenas img 
+{
+    width: 550px;
+    height: 400;
+}
+
+.athenas 
+{
+    margin: 50px;
+}
+
+.navagio img 
+{
+    width: 550px;
+    height: 400;
+}
+
+.navagio 
+{
+    margin: 50px;
+}
+
+.delfos img 
+{
+    width: 550px;
+    height: 400;
+}
+
+.delfos 
+{
+    margin: 50px;
+}
+
+.acropole img 
+{
+    width: 550px;
+    height: 400;
+}
+
+.acropole 
+{
+    margin: 50px;
+}
+
+.santorini img 
+{
+    width: 550px;
+    height: 400;
+}
+
+.santorini 
+{
+    margin: 50px;
+}
+
+.castelo img 
+{
+    width: 550px;
+    height: 400;
+}
+
+.castelo 
+{
+    margin: 50px;
+}
+
+.kefalonia img 
+{
+    width: 550px;
+    height: 400;
+}
+
+.kefalonia 
+{
+    margin: 50px;
+}
+
+.mykonos img 
+{
+    width: 550px;
+    height: 400;
+}
+
+.mykonos 
+{
+    margin: 50px;
+}
+
+.meteora img
+{
+    width: 500px;
+    height: 400px;
+
+}
+
+.templo img 
+{
+    width: 500px;
+    height: 400px;
+}
+.centro h4
+{
+    padding-top: 20px;
+}
